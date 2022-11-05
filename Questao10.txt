@@ -1,0 +1,17 @@
+Problema #1
+$ bq
+$ rel ABC
+$ di
+
+Problema #2
+$ bq
+$ rel XYZ
+$ re f
+$ re l
+
+Problema #3
+$ bq
+$ rel XYZ
+$ re 10
+$ re n
+$ re n
