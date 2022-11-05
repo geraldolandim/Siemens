@@ -2,12 +2,14 @@ Problema #1
 $ bq
 $ rel ABC
 $ di
+$ x
 
 Problema #2
 $ bq
 $ rel XYZ
 $ re f
 $ re l
+$ x
 
 Problema #3
 $ bq
@@ -15,3 +17,4 @@ $ rel XYZ
 $ re 10
 $ re n
 $ re n
+$ x
